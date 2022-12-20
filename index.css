@@ -10,4 +10,19 @@
 
 ul {
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+a{
+  text-decoration: none;
+}
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+li{
+  background-color: beige;
+  padding: 15px;
+  border: 2px solid black;
 }
